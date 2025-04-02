@@ -67,7 +67,7 @@ describe('WISE Portal', () => {
         isAngularSite(false);
         browser.get('http://localhost:8080/wise/');
         createAccountButton.click();
-        expect(browser.getTitle()).toEqual('Create WISE Account');
+        expect(browser.getTitle()).toEqual('Create Rehearsals Account');
         expect(browser.getCurrentUrl()).toEqual('http://localhost:8080/wise/join');
         let createStudentAccountLink = element(by.cssContainingText('a','Student Account'));
         let createTeacherAccountLink = element(by.cssContainingText('a','Teacher Account'));

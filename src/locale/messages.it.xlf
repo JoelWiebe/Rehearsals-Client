@@ -3921,7 +3921,7 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
         <target state="needs-translation">Here are instructions on how to set up a Run.</target>
       </trans-unit>
       <trans-unit id="e9a22cb12f2c9f5db14a01d04ae6d9e829cd5b48" datatype="html">
-        <source>Sign in to WISE with your teacher account.</source>
+        <source>Sign in to Rehearsals with your teacher account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/help/faq/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">38</context>
@@ -3930,7 +3930,7 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
           <context context-type="sourcefile">src/app/help/faq/teacher-faq/teacher-faq.component.html</context>
           <context context-type="linenumber">43</context>
         </context-group>
-        <target state="needs-translation">Sign in to WISE with your teacher account.</target>
+        <target state="needs-translation">Sign in to Rehearsals with your teacher account.</target>
       </trans-unit>
       <trans-unit id="95c22fc191e91241d3fe6293898fec4d41e20c7d" datatype="html">
         <source>Click the &quot;Unit Library&quot; tab.</source>
@@ -5389,20 +5389,20 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
         <target state="needs-translation">Add Ideas</target>
       </trans-unit>
       <trans-unit id="e146823b9b0e4600d4dcc7e23d6b31629babc03a" datatype="html">
-        <source> Integrated science learning and teaching with technology </source>
+        <source> Digital learning simulations that immerse students in scenarios, supported by intelligent coaching agents </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">36,38</context>
         </context-group>
-        <target state="needs-translation"> Integrated science learning and teaching with technology </target>
+        <target state="needs-translation"> Digital learning simulations that immerse students in scenarios, supported by intelligent coaching agents </target>
       </trans-unit>
       <trans-unit id="c9862327b7973e1d966bc744d6efe4da295ecf86" datatype="html">
-        <source> The WISE Advantage </source>
+        <source> The Rehearsals Advantage (built on WISE) </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">57,59</context>
         </context-group>
-        <target state="needs-translation"> The WISE Advantage </target>
+        <target state="needs-translation"> The Rehearsals Advantage (built on WISE) </target>
       </trans-unit>
       <trans-unit id="7b26e0d3e5ab23b18e4e9fe4fdbb7f7e6b534790" datatype="html">
         <source> Curriculum Offerings </source>
@@ -5413,12 +5413,12 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
         <target state="needs-translation"> Curriculum Offerings </target>
       </trans-unit>
       <trans-unit id="dcd4eff483113708f4fd91f98236bee705e676a8" datatype="html">
-        <source>Ready to try WISE in the Classroom?</source>
+        <source>Ready to try Rehearsals in the classroom?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">111</context>
         </context-group>
-        <target state="needs-translation">Ready to try WISE in the Classroom?</target>
+        <target state="needs-translation">Ready to try Rehearsals in the classroom?</target>
       </trans-unit>
       <trans-unit id="b4b200f1299f2e043cae72f59718dca3b12f1f38" datatype="html">
         <source>Sign up for free!</source>
@@ -5621,12 +5621,12 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
         <target state="needs-translation">An error occurred. Please refresh this page and try again.</target>
       </trans-unit>
       <trans-unit id="263e1717422fe3b5810e9a2e55b87e477b35d1ed" datatype="html">
-        <source>Sign in to WISE</source>
+        <source>Sign in to Rehearsals</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login-home/login-home.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="needs-translation">Sign in to WISE</target>
+        <target state="needs-translation">Sign in to Rehearsals</target>
       </trans-unit>
       <trans-unit id="cf89cf2c175e2a0a3bf631094e463210e1ee54e9" datatype="html">
         <source> Username and password not recognized. Please try again. </source>
@@ -5693,12 +5693,12 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
         <target state="translated">Hai dimenticato il nome utente o la password?</target>
       </trans-unit>
       <trans-unit id="c6c31f501feef87ab274bd3a000b99eeb7434cff" datatype="html">
-        <source>New to WISE? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <source>New to Rehearsals? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login-home/login-home.component.html</context>
           <context context-type="linenumber">92,93</context>
         </context-group>
-        <target state="needs-translation">New to WISE? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <target state="needs-translation">New to Rehearsals? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
       </trans-unit>
       <trans-unit id="acd82db1a5e5f81b87f6a6b1639f028a4d106d49" datatype="html">
         <source>WISE logo</source>
@@ -7915,28 +7915,28 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
         <target state="needs-translation"> Sorry, your Microsoft User ID was not found in WISE. </target>
       </trans-unit>
       <trans-unit id="0374570fb5bc65ef42fa03c5923070a11d7f0b5e" datatype="html">
-        <source>Create WISE Account</source>
+        <source>Create Rehearsals Account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
-        <target state="needs-translation">Create WISE Account</target>
+        <target state="needs-translation">Create Rehearsals Account</target>
       </trans-unit>
       <trans-unit id="de4f0be5b99420e05b27c9fc347488dd6babca71" datatype="html">
-        <source>Students can view and complete WISE lessons offered by teachers.</source>
+        <source>Students can view and complete Rehearsals lessons offered by teachers.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
-        <target state="needs-translation">Students can view and complete WISE lessons offered by teachers.</target>
+        <target state="needs-translation">Students can view and complete Rehearsals lessons offered by teachers.</target>
       </trans-unit>
       <trans-unit id="5d440e046aeae72880c188414cdafa69bf9b4f97" datatype="html">
-        <source>Teachers can select, author, and run WISE lessons with their students.</source>
+        <source>Teachers can select, author, and run Rehearsals lessons with their students.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">32</context>
         </context-group>
-        <target state="needs-translation">Teachers can select, author, and run WISE lessons with their students.</target>
+        <target state="needs-translation">Teachers can select, author, and run Rehearsals lessons with their students.</target>
       </trans-unit>
       <trans-unit id="9cf37b81962ddd2eb54d8f4e813d0fd1d5a1787b" datatype="html">
         <source>Hi! This Microsoft user already has a WISE account.</source>
@@ -7963,7 +7963,7 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
         <target state="needs-translation">Microsoft logo</target>
       </trans-unit>
       <trans-unit id="89a4722a9d6828f6aa9e3600033561ffad582c36" datatype="html">
-        <source>Your WISE account has been created!</source>
+        <source>Your Rehearsals account has been created!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-student-complete/register-student-complete.component.html</context>
           <context context-type="linenumber">3</context>
@@ -7972,15 +7972,15 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
           <context context-type="sourcefile">src/app/register/register-teacher-complete/register-teacher-complete.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
-        <target state="needs-translation">Your WISE account has been created!</target>
+        <target state="needs-translation">Your Rehearsals account has been created!</target>
       </trans-unit>
       <trans-unit id="4f53e805250de770a1503c778a380c49e0d0ef00" datatype="html">
-        <source> Please write this down. You will need it when signing in to WISE in the future. </source>
+        <source> Please write this down. You will need it when signing in to Rehearsals in the future. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-student-complete/register-student-complete.component.html</context>
           <context context-type="linenumber">8,10</context>
         </context-group>
-        <target state="needs-translation"> Please write this down. You will need it when signing in to WISE in the future. </target>
+        <target state="needs-translation"> Please write this down. You will need it when signing in to Rehearsals in the future. </target>
       </trans-unit>
       <trans-unit id="573963e1285d0c1e6208d5bb8cab9eb6a8b6bb46" datatype="html">
         <source>Sign In to Get Started</source>
@@ -8760,7 +8760,7 @@ Click "Cancel" to keep the invalid JSON open so you can fix it.</target>
           <context context-type="sourcefile">src/app/student/student-run-list/student-run-list.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
-        <target state="needs-translation">Hey there! Looks like you don't have any WISE units yet.</target>
+        <target state="needs-translation">Hey there! Looks like you don't have any Rehearsals units yet.</target>
       </trans-unit>
       <trans-unit id="ec7b603e7c480db1fb19f76534b29df850bd1216" datatype="html">
         <source> Ask your teacher for an <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Access Code<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> and then tap the <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Add Unit<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> button to get started. </source>

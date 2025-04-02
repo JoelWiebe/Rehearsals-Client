@@ -34,7 +34,7 @@
     </ng-template>
     <ng-template #taglineTemplate>
       <div [@flipInX]="{ value: '*', params: { delay: '2750ms' } }" i18n>
-        Integrated science learning and teaching with technology
+        Digital learning simulations that immerse students in scenarios, supported by intelligent coaching agents
       </div>
     </ng-template>
     <ng-template #sideTemplate *ngIf="isDiscourseNewsAvailable">
@@ -55,7 +55,7 @@
           [ngClass.xs]="{ 'mat-headline-4': false }"
           i18n
         >
-          The WISE Advantage
+          The Rehearsals Advantage (built on WISE)
         </h1>
         <div class="features">
           <app-blurb
@@ -93,7 +93,7 @@
           <h2
             class="accent-1 flex flex-wrap flex-col sm:flex-row gap-4 place-items-center justify-center"
           >
-            <span i18n>Ready to try WISE in the Classroom?</span>
+            <span i18n>Ready to try Rehearsals in the classroom?</span>
             <a mat-raised-button color="accent" routerLink="/join" i18n>Sign up for free!</a>
           </h2>
         </div>
@@ -138,18 +138,6 @@
           </a>
         </h1>
         <div class="features">
-          <app-call-to-action
-            icon="forum"
-            iconColor="accent-1"
-            i18n-headline
-            headline="Community"
-            i18n-content
-            content="Join us! Discuss all things WISE."
-            destination="https://wise-discuss.berkeley.edu"
-            linkTarget="_self"
-            [isOutsideLink]="true"
-          >
-          </app-call-to-action>
           <app-call-to-action
             icon="live_help"
             iconColor="accent-2"

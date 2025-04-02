@@ -39,7 +39,7 @@ export class AuthoringToolComponent {
   ) {}
 
   ngOnInit(): void {
-    this.logoPath = this.projectService.getThemePath() + '/images/WISE-logo-ffffff.svg';
+    this.logoPath = this.projectService.getThemePath() + '/images/rehearsals-logo_all-white.png';
     this.processUI();
     this.initializeViews();
     this.subscribeToSessionEvents();

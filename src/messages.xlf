@@ -3737,7 +3737,7 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="5719649044728309274" datatype="html">
-        <source>Sign in to WISE with your teacher account.</source>
+        <source>Sign in to Rehearsals with your teacher account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/help/faq/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">38,40</context>
@@ -5052,14 +5052,14 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="4092336260961742939" datatype="html">
-        <source> Integrated science learning and teaching with technology </source>
+        <source> Digital learning simulations that immerse students in scenarios, supported by intelligent coaching agents </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">37,40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="192631262427090987" datatype="html">
-        <source> The WISE Advantage </source>
+        <source> The Rehearsals Advantage (built on WISE) </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">58,61</context>
@@ -5073,7 +5073,7 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="8254507243031097369" datatype="html">
-        <source>Ready to try WISE in the Classroom?</source>
+        <source>Ready to try Rehearsals in the classroom?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">96,97</context>
@@ -5259,7 +5259,7 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="1118012499725441855" datatype="html">
-        <source>Sign in to WISE</source>
+        <source>Sign in to Rehearsals</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login-home/login-home.component.html</context>
           <context context-type="linenumber">4,5</context>
@@ -5340,7 +5340,7 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="7675883883328259740" datatype="html">
-        <source>New to WISE? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <source>New to Rehearsals? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login-home/login-home.component.html</context>
           <context context-type="linenumber">91,92</context>
@@ -7284,21 +7284,21 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="4043546436045106902" datatype="html">
-        <source>Create WISE Account</source>
+        <source>Create Rehearsals Account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">8,9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1533890597769264886" datatype="html">
-        <source>Students can view and complete WISE lessons offered by teachers.</source>
+        <source>Students can view and complete Rehearsals lessons offered by teachers.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">17,20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4136904004598927016" datatype="html">
-        <source>Teachers can select, author, and run WISE lessons with their students.</source>
+        <source>Teachers can select, author, and run Rehearsals lessons with their students.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">27,32</context>
@@ -7327,7 +7327,7 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="8731009922587590922" datatype="html">
-        <source>Your WISE account has been created!</source>
+        <source>Your Rehearsals account has been created!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-student-complete/register-student-complete.component.html</context>
           <context context-type="linenumber">3,5</context>
@@ -7338,7 +7338,7 @@ Click &quot;Cancel&quot; to keep the invalid JSON open so you can fix it.</sourc
         </context-group>
       </trans-unit>
       <trans-unit id="9105292075588051809" datatype="html">
-        <source> Please write this down. You will need it when signing in to WISE in the future. </source>
+        <source> Please write this down. You will need it when signing in to Rehearsals in the future. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-student-complete/register-student-complete.component.html</context>
           <context context-type="linenumber">9,12</context>

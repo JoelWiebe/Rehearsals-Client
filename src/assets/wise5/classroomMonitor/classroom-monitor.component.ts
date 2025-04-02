@@ -67,7 +67,7 @@ export class ClassroomMonitorComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    this.logoPath = this.projectService.getThemePath() + '/images/WISE-logo-ffffff.svg';
+    this.logoPath = this.projectService.getThemePath() + '/images/rehearsals-logo_all-white.png';
     this.notifications = this.notificationService.notifications;
     this.projectId = this.configService.getProjectId();
     this.projectTitle = this.projectService.getProjectTitle();

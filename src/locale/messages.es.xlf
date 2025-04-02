@@ -3921,7 +3921,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated">Estas son las instrucciones para configurar la Ejecución de una unidad.</target>
       </trans-unit>
       <trans-unit id="e9a22cb12f2c9f5db14a01d04ae6d9e829cd5b48" datatype="html">
-        <source>Sign in to WISE with your teacher account.</source>
+        <source>Sign in to Rehearsals with your teacher account.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/help/faq/getting-started/getting-started.component.html</context>
           <context context-type="linenumber">38</context>
@@ -5389,7 +5389,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated">Añadir Ideas</target>
       </trans-unit>
       <trans-unit id="e146823b9b0e4600d4dcc7e23d6b31629babc03a" datatype="html">
-        <source> Integrated science learning and teaching with technology </source>
+        <source> Digital learning simulations that immerse students in scenarios, supported by intelligent coaching agents </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">36,38</context>
@@ -5397,7 +5397,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated"> Aprendizaje de la ciencia integrada y enseñanza con tecnología </target>
       </trans-unit>
       <trans-unit id="c9862327b7973e1d966bc744d6efe4da295ecf86" datatype="html">
-        <source> The WISE Advantage </source>
+        <source> The Rehearsals Advantage (built on WISE) </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">57,59</context>
@@ -5413,7 +5413,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated"> Oferta de currículum </target>
       </trans-unit>
       <trans-unit id="dcd4eff483113708f4fd91f98236bee705e676a8" datatype="html">
-        <source>Ready to try WISE in the Classroom?</source>
+        <source>Ready to try Rehearsals in the classroom?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
           <context context-type="linenumber">111</context>
@@ -5621,7 +5621,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated">Ocurrió un error. Por favor refrescar la página e intentar nuevamente.</target>
       </trans-unit>
       <trans-unit id="263e1717422fe3b5810e9a2e55b87e477b35d1ed" datatype="html">
-        <source>Sign in to WISE</source>
+        <source>Sign in to Rehearsals</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login-home/login-home.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5693,7 +5693,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated">¿Olvidó su usuario o contraseña?</target>
       </trans-unit>
       <trans-unit id="c6c31f501feef87ab274bd3a000b99eeb7434cff" datatype="html">
-        <source>New to WISE? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <source>New to Rehearsals? <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/join&quot;&gt;"/>Join for free!<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/login/login-home/login-home.component.html</context>
           <context context-type="linenumber">92,93</context>
@@ -7915,7 +7915,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="needs-translation"> Sorry, your Microsoft User ID was not found in WISE. </target>
       </trans-unit>
       <trans-unit id="0374570fb5bc65ef42fa03c5923070a11d7f0b5e" datatype="html">
-        <source>Create WISE Account</source>
+        <source>Create Rehearsals Account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">8</context>
@@ -7923,7 +7923,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated">Crear cuenta de WISE</target>
       </trans-unit>
       <trans-unit id="de4f0be5b99420e05b27c9fc347488dd6babca71" datatype="html">
-        <source>Students can view and complete WISE lessons offered by teachers.</source>
+        <source>Students can view and complete Rehearsals lessons offered by teachers.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">22</context>
@@ -7931,7 +7931,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated">Los estudiantes pueden ver y completar unidades de WISE que ofrecen los docentes.</target>
       </trans-unit>
       <trans-unit id="5d440e046aeae72880c188414cdafa69bf9b4f97" datatype="html">
-        <source>Teachers can select, author, and run WISE lessons with their students.</source>
+        <source>Teachers can select, author, and run Rehearsals lessons with their students.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-home/register-home.component.html</context>
           <context context-type="linenumber">32</context>
@@ -7963,7 +7963,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="needs-translation">Microsoft logo</target>
       </trans-unit>
       <trans-unit id="89a4722a9d6828f6aa9e3600033561ffad582c36" datatype="html">
-        <source>Your WISE account has been created!</source>
+        <source>Your Rehearsals account has been created!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-student-complete/register-student-complete.component.html</context>
           <context context-type="linenumber">3</context>
@@ -7975,7 +7975,7 @@ Hacer clic en "Cancelar" para mantener abierto el JSON no válido y solucionarlo
         <target state="translated">¡Su cuenta en WISE ha sido creada exitosamente!</target>
       </trans-unit>
       <trans-unit id="4f53e805250de770a1503c778a380c49e0d0ef00" datatype="html">
-        <source> Please write this down. You will need it when signing in to WISE in the future. </source>
+        <source> Please write this down. You will need it when signing in to Rehearsals in the future. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/register/register-student-complete/register-student-complete.component.html</context>
           <context context-type="linenumber">8,10</context>
